@@ -11,7 +11,15 @@ params:
     profileMode:
         enabled: true
         title: "Hi, I'm Julia!" # optional default will be site title
-        subtitle: "I'm a Cloud and DevOps advocate. My passion is making Cloud Native technologies and DevOps best practices easier to understand by sharing my knowledge and experiences. I'm also committed to empowering communities as the organizer of the *[NY Code & Coffee Meetup](https://www.newyorkcodeandcoffee.com/)*, AWS Community Builder, a *[Women Techmakers Ambassador](https://developers.google.com/womentechmakers)* and *[Girl Code Ambassador](https://www.girl-code.co.uk/girlcodeambassadors/julia-furst-morgado)*."
+        subtitle: "I'm a Cloud and DevOps advocate. My passion is making Cloud Native technologies and DevOps best practices easier to understand by sharing my knowledge and experiences. 
+      
+
+
+
+_
+
+
+        I'm also committed to empowering communities as the organizer of the *[NY Code & Coffee Meetup](https://www.newyorkcodeandcoffee.com/)*, AWS Community Builder, a *[Women Techmakers Ambassador](https://developers.google.com/womentechmakers)* and *[Girl Code Ambassador](https://www.girl-code.co.uk/girlcodeambassadors/julia-furst-morgado)*."
         imageUrl: "/img/julia2.jpeg" # optional
         imageWidth: 200 # custom size
         imageHeight: 200 # custom size
