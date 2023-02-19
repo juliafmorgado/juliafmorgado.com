@@ -26,8 +26,8 @@ _
         buttons:
             - name: Blog
               url: "/posts"
-            - name: Tags
-              url: "/tags"
+            - name: Talks
+              url: "https://github.com/juliafmorgado/talks"
 
     socialIcons: # optional
     - name: twitter
