@@ -1,12 +1,16 @@
 ---
-title: "6 Steps to Land a Remote Job & List of Remote-First Companies"
-author: "Julia Furst Morgado"
+title: 6 Steps to Land a Remote Job & List of Remote-First Companies
+author: Julia Furst Morgado
 date: 2022-12-22T13:18:55.415Z
 lastmod: 2023-01-08T10:34:27-05:00
 cover:
     image: img/2022-12-22_6-steps-to-land-a-remote-job-list-of-remotefirst-companies_0.jpeg
-tags: ["Remote jobs", "Tips"]
-categories: ["Job search"]
+tags: 
+    - Tips
+    - Remote jobs
+categories: 
+    - Job search
+slug: /steps-to-land-remote-job
 
 description: ""
 

@@ -1,13 +1,16 @@
 ---
-title: "
-Glossary of Git and GitHub Terms"
-author: "Julia Furst Morgado"
+title: Glossary of Git and GitHub Terms
+author: Julia Furst Morgado
 date: 2023-xx-xxT17:46:05.964Z
 draft: true
 cover:
     image: img/100devs.png
-tags: ["Git", "GitHub", "List"]
-categories: ["Tech"]
+tags: 
+    - Git
+    - GitHub
+    - Glossary
+description: This is the subtitle that is used for SEO and visible in Medium and Hashnode posts.
+slug: /glossary-git-github-terms
 description: ""
 
 subtitle: ""

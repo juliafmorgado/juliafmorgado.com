@@ -1,12 +1,18 @@
 ---
-title: "How can I become an Open Source contributor? (The ultimate guide)"
-author: "Julia Furst Morgado"
+title: How can I become an Open Source contributor? (The ultimate guide)
+author: Julia Furst Morgado
 date: 2022-12-26T11:36:55.320Z
 lastmod: 2023-01-08T10:34:28-05:00
 cover:
     image: img/2022-12-26_how-can-i-become-an-open-source-contributor-the-ultimate-guide_0.jpeg
-tags: ["Open Source", "Tips", "Guide"]
-categories: ["Tech", "Open Source"]
+tags: 
+    - Open Source
+    - Tips
+    - Guide
+categories: 
+    - Tech
+    - Open Source
+slug: /guide-to-become-open-source-contributor
 
 
 description: ""

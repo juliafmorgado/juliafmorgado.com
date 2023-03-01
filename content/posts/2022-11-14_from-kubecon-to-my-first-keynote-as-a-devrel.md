@@ -1,13 +1,19 @@
 ---
-title: "From KubeCon to my first keynote as a DevRel"
-author: "Julia Furst Morgado"
+title: From KubeCon to my first keynote as a DevRel
+author: Julia Furst Morgado
 date: 2022-11-14T13:47:21.597Z
 lastmod: 2023-01-08T10:34:22-05:00
 
 cover:
     image: img/2022-11-14_from-kubecon-to-my-first-keynote-as-a-devrel_0.jpeg
-tags: ["KubeCon", "Kubernetes", "Cloud Native"]
-categories: ["Conference"]
+tags: 
+    - Kubernetes
+    - KubeCon
+    - Cloud Native
+    - Conferences
+categories: 
+    - Conferences
+slug: /from-kubecon-to-my-first-keynote-as-a-devrel
 description: ""
 ---
 

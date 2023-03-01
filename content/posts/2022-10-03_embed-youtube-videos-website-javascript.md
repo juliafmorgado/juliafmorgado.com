@@ -5,11 +5,13 @@ date: 2022-10-03T17:46:05.964Z
 lastmod: 2023-01-08T10:34:02-05:00
 cover:
     image: /img/youtube-embed.png
-tags: ["Youtube", "Tutorial", "JavaScript"]
-categories: ["Tech"]
 description: ""
+tags: 
+    - YouTube
+    - Tutorial
+    - JavaScript
 
-subtitle: ""
+slug: /embed-youtube-videos-with-javascript
 
 image: 
 images:

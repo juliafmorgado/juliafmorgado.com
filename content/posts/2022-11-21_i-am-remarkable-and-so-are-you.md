@@ -1,13 +1,17 @@
 ---
-title: "I am Remarkable, and so are You!"
-author: "Julia Furst Morgado"
+title: I am Remarkable, and so are You!
+author: Julia Furst Morgado
 date: 2022-11-21T17:01:00.516Z
 lastmod: 2023-01-08T10:34:26-05:00
 cover:
     image: img/2022-11-21_i-am-remarkable-and-so-are-you_0.jpeg
-tags: ["Google", "Empowerment", "Motivation"]
-categories: ["Motivation"]
-
+tags: 
+    - Google
+    - Empowerment
+    - Motivation
+categories: 
+    - Motivation
+slug: /I-am-remarkable-and-so-are-you
 description: ""
 
 subtitle: ""
