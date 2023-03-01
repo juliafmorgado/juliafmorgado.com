@@ -1,13 +1,18 @@
 ---
-title: "Why I failed the Microsoft exam AZ-204: Developing Solutions for Microsoft Azure"
-author: "Julia Furst Morgado"
+title: Why I failed the Microsoft exam AZ-204 - Developing Solutions for Microsoft Azure
+author: Julia Furst Morgado
 date: 2023-01-01T17:46:41.855Z
 lastmod: 2023-01-08T10:34:28-05:00
 cover:
     image: img/2023-01-01_why-i-failed-the-microsoft-exam-az204-developing-solutions-for-microsoft-azure_0.png
-tags: ["Microsoft", "Certification", "Azure"]
-categories: ["Tech"]
-description: ""
+tags: 
+    - Microsoft
+    - Certification
+    - Azure
+categories: 
+    - Tech
+description: This is the subtitle that is used for SEO and visible in Medium and Hashnode posts.
+slug: /why-I-failed-microsoft-exam
 
 subtitle: ""
 
