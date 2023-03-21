@@ -2,7 +2,7 @@
 title: Why We Give Up Easily
 date: 2023-03-21T15:39:56-04:00
 author: "Julia Furst Morgado"
-draft: false
+draft: true
 
 cover:
     image: 
