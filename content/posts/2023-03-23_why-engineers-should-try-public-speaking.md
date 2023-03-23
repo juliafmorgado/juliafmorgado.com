@@ -2,7 +2,6 @@
 title: This Is How Public Speaking Can Boost Your Engineering Career
 author: Julia Furst Morgado
 date: 2023-03-23 T17:46:05.964Z
-draft: false
 cover:
     image: img/microphone.jpeg
 tags: 
