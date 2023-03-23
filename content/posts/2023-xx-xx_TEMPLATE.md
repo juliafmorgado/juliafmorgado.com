@@ -1,22 +1,20 @@
 ---
-title: ""
-author: "Julia Furst Morgado"
+title: 
+author: Julia Furst Morgado
 date: 2023-xx-xxT17:46:05.964Z
 draft: true
 cover:
     image: img/100devs.png
-tags: ["Learning to code", "100Devs", "Coding bootcamp"]
-categories: ["Tech"]
-description: ""
+tags: 
+    - Microsoft
+    - Certification
+    - Azure
+categories: 
+    - Tech
+description: This is the subtitle that is used for SEO and visible in Medium and Hashnode posts.
+slug: /why-I-failed-microsoft-exam
 
-subtitle: ""
 
-image: 
-images:
-
-
-
-aliases:
 
 
 ---
