@@ -2,7 +2,6 @@
 title: Glossary of Git and GitHub Terms
 author: Julia Furst Morgado
 date: 2023-03-28T17:46:05.964Z
-draft: false
 cover:
     image: img/100devs.png
 tags: 
