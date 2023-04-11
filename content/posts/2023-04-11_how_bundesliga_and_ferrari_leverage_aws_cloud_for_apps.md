@@ -1,5 +1,5 @@
 ---
-title: Driving Success: How Bundesliga and Scuderia Ferrari Leverage AWS Cloud for Their Apps
+title: Driving Success — How Bundesliga and Scuderia Ferrari Leverage AWS Cloud for Their Apps
 author: Julia Furst Morgado
 date: 2023-04-11T17:46:05.964Z
 cover:
@@ -7,8 +7,6 @@ cover:
 tags: 
     - AWS
 slug: /how_bundesliga_and_ferrari_leverage_aws_cloud_for_apps
-
-
 
 ---
 
